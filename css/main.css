@@ -26,3 +26,8 @@ body {
   left: 20%;
   top: 20%;
 }
+
+.banner-content img {
+  display: block;
+  float: left;
+}
