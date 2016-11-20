@@ -27,6 +27,18 @@ body {
   top: 20%;
 }
 
+ul {
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 .banner-content img {
   display: block;
   float: left;
