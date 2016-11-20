@@ -43,3 +43,9 @@ a {
   display: block;
   float: left;
 }
+
+h2 {
+  display: inline;
+  margin: 0;
+  float: right;
+}
