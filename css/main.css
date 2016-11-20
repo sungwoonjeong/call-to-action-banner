@@ -15,3 +15,8 @@ body {
   max-height: 500px;
   overflow: hidden;
 }
+
+.img-flex {
+  display: block;
+  width: 100%
+}
