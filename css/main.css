@@ -20,3 +20,9 @@ body {
   display: block;
   width: 100%;
 }
+
+.banner-content {
+  position: absolute;
+  left: 20%;
+  top: 20%;
+}
