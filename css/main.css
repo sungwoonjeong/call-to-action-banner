@@ -25,6 +25,8 @@ body {
   position: absolute;
   left: 20%;
   top: 20%;
+  max-width: 30em;
+  transform: translate(5%, 5%);
 }
 
 ul {
@@ -39,17 +41,36 @@ a {
   text-decoration: none;
 }
 
+.btn {
+  color: #fff;
+  background-color: #3c3c3c;
+  padding: .75em;
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
 .banner-content img {
   display: block;
   float: left;
+  width: 50%;
 }
 
 h2 {
   display: inline;
   margin: 0;
   float: right;
+  font-size: 3rem;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 p {
   display: block;
+  font-size: 1.5rem;
+  font-family: Roboto, sans-serif;
+}
+
+.btn-big {
+  font-size: 1.5rem;
 }
